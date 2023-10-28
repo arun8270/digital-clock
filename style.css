@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: opx;
+}
+body{
+    background-color: ;
+}
+.container{
+    text-align: center;
+    margin: 10% 10%;
+    padding: 30px 30px;
+    background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+}
+.time{
+    font-size: 25px;
+}
+
